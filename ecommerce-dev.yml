@@ -13,4 +13,4 @@ spring:
     password: '{cipher}AQBpIl72wwo5m7Aj/3ONEATavKEfFh4FRgJi3wKdJg+Ib9obgsvCeRrvFPoFgYCBY/oifxmor0YPNByRiaiWps0PCh+AHRiPbobgGoJdL9gO13WAjyQibD5z7WkjzJ2DSzMpQZEyT0G7s+zjLcejQQqdboTQl5s8AYlf/cyGSF5UsqDrA/NyYF3LGURYFkRuIUC0gONmMT8Gxv4uBeCIamscfqLVJ1Xdb9eTUXHzcrHeQ86B5uH3jsMiCkkH1s4S7ssjFyZVnyIvKy8IlBOScz2rIQ22Nf+NC4Hvrx+KZBU3t9FP2f36x1nw3TZB/XTurQwdf3PrnWQzgNrPbGlWcQLyNqWH4mqGUU4ZOnfUBYUiZHq+QXg2uinme0a7hOkBwrA='
 
 order_service:
-  url: http://order-service/order-service/%s/orders
+  url: http://ORDER-SERVICE/order-service/%s/orders
